@@ -18,12 +18,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho criando so
 - Express
 - Spring Boot
 
-### Ferramentas e Plataformas
-- Git/GitHub
-- Docker
-- AWS
-- MongoDB/PostgreSQL
-
 ## 📊 Estatísticas do GitHub
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreramos282&show_icons=true&theme=dark)
@@ -37,12 +31,6 @@ Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho criando so
 - 👯 Procurando colaborar em projetos open source
 - 💬 Pergunte-me sobre desenvolvimento web e programação
 - ⚡ Fato curioso: Adoro resolver problemas complexos com código elegante
-
-## 📫 Como me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andreramos282)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/andreramos282)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andreramos282@email.com)
 
 ## 🏆 Conquistas
 
