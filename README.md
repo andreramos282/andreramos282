@@ -1,41 +1,59 @@
-# Olá! Eu sou André Ramos 👋
+<h1 align="center">Olá, eu sou o André Ramos 👋</h1>
 
-## 🚀 Sobre mim
+<p align="center">
+  Estudante de <b>Desenvolvimento de Software Multiplataforma</b> na <b>FATEC Jacareí</b> · Jacareí-SP
+</p>
 
-Sou um desenvolvedor apaixonado por tecnologia e inovação. Trabalho criando soluções digitais que fazem a diferença na vida das pessoas e no mundo dos negócios.
-
-## 🛠️ Tecnologias e Ferramentas
-
-### Linguagens de Programação
-- JavaScript/TypeScript
-- Python
-- Java
-- HTML/CSS
-
-### Frameworks e Bibliotecas
-- React
-- Node.js
-- Express
-- Spring Boot
-
-## 📊 Estatísticas do GitHub
-
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=andreramos282&show_icons=true&theme=dark)
-
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=andreramos282&layout=compact&theme=dark)
-
-## 🎯 Atualmente
-
-- 🔭 Trabalhando em projetos de desenvolvimento web
-- 🌱 Aprendendo novas tecnologias e frameworks
-- 👯 Procurando colaborar em projetos open source
-- 💬 Pergunte-me sobre desenvolvimento web e programação
-- ⚡ Fato curioso: Adoro resolver problemas complexos com código elegante
-
-## 🏆 Conquistas
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=andreramos282&theme=onedark)
+<p align="center">
+  <a href="mailto:andreramosjr12@gmail.com"><img src="https://img.shields.io/badge/Email-andreramosjr12%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/FATEC-DSM%205%C2%BA%20semestre-B20000?style=for-the-badge" alt="FATEC DSM">
+</p>
 
 ---
 
-⭐ De [andreramos282](https://github.com/andreramos282)
+## 🚀 Sobre mim
+
+- 🎓 Cursando **DSM na FATEC Jacareí** (5º semestre)
+- 🧪 Venho da área técnica: **Técnico em Química** (ETEC) e alguns anos como **operador de ETA**, cuidando sozinho da operação de uma estação de tratamento de água durante o turno
+- 💻 Hoje foco em **desenvolvimento web, mobile e dados/ML**
+- 🛰️ Já participei de projetos em parceria com o **INPE**
+- 🌎 Inglês e espanhol intermediários
+
+## 🔭 No momento
+
+- 📊 **ABP – Predição de desempenho no ENEM**: modelo de Machine Learning + plataforma web para escolas e secretarias
+- 📱 Desenvolvendo apps em **Flutter**
+- ☁️ Estudando **Computação em Nuvem (AWS)** e **Segurança Web (OWASP)**
+- 🤖 Aprofundando em **Aprendizado de Máquina** (SVM, Árvores de Decisão, scikit-learn)
+
+## 🛠️ Tecnologias
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c,cpp,html,css,tailwind,bootstrap&theme=dark" alt="Linguagens" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,flutter,dart,sklearn&theme=dark" alt="Frameworks" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,aws,git,github,figma,arduino&theme=dark" alt="Ferramentas" />
+</p>
+
+## 📌 Projetos em destaque
+
+| Projeto | Descrição | Stack |
+|---|---|---|
+| 🛰️ [**Datlas**](https://github.com/My0pes/Datlas-3DSM) | Plataforma com o **INPE** para comparar dados de satélite (Sentinel, Landsat): mapa interativo, consulta STAC, séries temporais de NDVI/EVI, temperatura e umidade, exportação de dados | Web · Mapas · STAC |
+| 🔥 [**Turi**](https://github.com/My0pes/Turi-Myopes-2DSM) | Site com o **INPE** sobre focos de calor, risco de fogo e área queimada por estado/bioma, com mapas interativos e gráficos (equipe de 6) | React · TypeScript · Node.js · PostgreSQL · Figma |
+| 📊 [**ABP ENEM**](https://github.com/andreramos282/abp-enem) | Predição de desempenho de estudantes no ENEM com microdados do INEP + plataforma web | Python · ML · Web |
+| 🎓 [**App Scholar**](https://github.com/andreramos282/app-scholar) | Sistema de gestão acadêmica completo | Web |
+| 🎮 [**HabitQuest**](https://github.com/andreramos282/habitquest) | App de hábitos desenvolvido em Flutter | Flutter · Dart |
+| 🥗 [**Nutri App**](https://github.com/andreramos282/nutri-app) | App de nutrição: contagem de calorias, registro de alimentos e controle da dieta | Mobile |
+
+## 📊 Estatísticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreramos282&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramos282&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
+
+<p align="center">💬 Fale comigo sobre web, mobile, dados ou projetos acadêmicos!</p>
