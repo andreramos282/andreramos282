@@ -50,8 +50,15 @@
 ## 📊 Estatísticas
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=andreramos282&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreramos282&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Detalhes do perfil" />
+</p>
+<p>
+  <img height="180" src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Estatísticas do GitHub" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repositórios por linguagem" />
+</p>
+<p>
+  <img height="180" src="./profile-summary-card-output/tokyonight/2-most-commit-language.svg" alt="Linguagens com mais commits" />
+  <img height="180" src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Horário mais produtivo" />
 </p>
 
 ---
